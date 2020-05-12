@@ -1,9 +1,7 @@
-# Food Delivery Application in Flutter
-
-TODO: Trying to implement as firebase database
+# FoodApp
+Ui experiment with sqlite mobile database
 
 ## Screenshot
-
 
 
 
@@ -12,10 +10,4 @@ TODO: Trying to implement as firebase database
 
 
 
-
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FoodApp
-# FoodApp
+Online documentation can be found in https://flutter.dev/docs
