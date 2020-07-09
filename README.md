@@ -1,5 +1,5 @@
 # FoodApp
-Ui experiment with sqlite mobile database
+UI experiment with sqlite mobile database
 
 ## Screenshot
 
