@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
-      ), 
-      darktheme:ThemeData(
-         primarySwatch: Colors.black87,
+      ),
+      darkTheme: ThemeData(
+        primarySwatch: Colors.black87,
       ),
       home: HomePage(),
     );
