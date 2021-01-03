@@ -1,4 +1,4 @@
-# FoodApp
+# FoodApp 🌮
 UI experiment with sqlite mobile database
 
 ## Screenshot
@@ -6,7 +6,6 @@ UI experiment with sqlite mobile database
 
 
 ![](https://imgur.com/4HiA58e.png)
-
 
 
 
