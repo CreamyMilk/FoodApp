@@ -31,6 +31,7 @@ class _MyAppState extends State<MyApp> {
       );
     } else {
       //_saveDeviceToken();
+      //Just to re run job
     }
     //Subscribe to topic frontEND
     _fcm.subscribeToTopic("test");
